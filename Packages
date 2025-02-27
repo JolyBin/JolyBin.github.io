@@ -1,0 +1,16 @@
+Package: com.yourcompany.testproject
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: joly
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.yourcompany.testproject_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2264
+MD5sum: e4f3e283254bc806c503a860019e6d30
+SHA1: c45827418e43a519723050223614b31a845f496e
+SHA256: afb82658234a883a185919d8827e31f14f799808fab67c457c620792acad84ad
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: joly
+Name: testproject
+
